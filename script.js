@@ -25,7 +25,7 @@ student.newStudentNumber = student.studentNumber;
 console.log(student);
 
 // Add a function to delete the new student number. (3)
-delete student.studentNumber;
+delete student.newStudentNumber;
 console.log(student);
 
 // Add a function to add a new property to the object. (any property that you choose) (3)
